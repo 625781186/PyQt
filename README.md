@@ -15,6 +15,13 @@
 
 [ QWebView 与 python 通过js交互 特效 - QWebEngine需要改代码](https://github.com/892768447/PhotoEffects)
 
+<a herf="./">123123</a>
+<details>
+<summary>Demo</summary>
+    <link herf="./">123123</link>
+
+</details>
+
 ### II、功能型
 
 #### 2.1 常用例子
